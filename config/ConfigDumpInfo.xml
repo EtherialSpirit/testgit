@@ -3,7 +3,8 @@
 	<ConfigVersions>
 		<Metadata name="Catalog.Справочник1" id="17dc3d28-4e6d-4939-b68a-ca251dfe723a" configVersion="3c3fc6a494b6884187bd3444b85f2b3d00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="b8e83cce-426e-4103-9e60-0e6c813ee14f" configVersion="bc02e0d42d8f584991d046f1808046f800000000"/>
-		<Metadata name="Document.Документ1" id="5359c418-b0bc-4191-96d6-722f9c66d375" configVersion="89c9af01e7173640bb979f0fdba8f33300000000"/>
+		<Metadata name="Document.Документ1" id="5359c418-b0bc-4191-96d6-722f9c66d375" configVersion="b5c7a6de2d98244d82b7c991314ed1cc00000000"/>
+		<Metadata name="Document.Документ1.ObjectModule" id="5359c418-b0bc-4191-96d6-722f9c66d375.0" configVersion="4ead80fca63efd409d1205f785e3595100000000"/>
 		<Metadata name="Language.Русский" id="350cc2ef-aec6-4e20-92f6-940a29726193" configVersion="75ea5c6d793b4d42a6e43e98df5ec22000000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
