@@ -226,6 +226,7 @@
 			<Language>Русский</Language>
 			<Catalog>Справочник1</Catalog>
 			<Document>Документ1</Document>
+			<Document>Документ2</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

@@ -1,0 +1,2 @@
+﻿New: Document.Документ2
+Modified: Configuration.Конфигурация
