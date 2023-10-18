@@ -1,2 +1,3 @@
-﻿New: Catalog.Справочник1.ObjectModule
+﻿New: Catalog.Справочник1.Form.ФормаЭлемента
+New: Catalog.Справочник1.Form.ФормаЭлемента.Form
 Modified: Catalog.Справочник1
